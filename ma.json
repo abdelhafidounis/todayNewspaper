@@ -1,0 +1,18 @@
+[
+ {
+  "sourceId": "0",
+  "sourceName": "ماروك برس",
+  "sourceUrl": "http://www.marocpress.com/feed"
+},
+ {
+  "sourceId": "1",
+  "sourceName": "المنتخب",
+  "sourceUrl": "https://www.almountakhab.com/sitemap-rss.rss"
+},
+  {
+  "sourceId": "2",
+  "sourceName": "البيضاوي",
+  "sourceUrl": "http://albidaoui.ma/feed"
+}
+
+]
